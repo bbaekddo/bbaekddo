@@ -1,4 +1,5 @@
-# My Github
+# My GitHub
+blog : https://velog.io/@bbaekddo
 
 <br>
 <br>
