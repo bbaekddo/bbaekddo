@@ -12,6 +12,11 @@
 <br>
 
 ## 경력
+- **소프트스퀘어드**, 외주 - 서버개발
+    - 2022.07 ~ (진행중)
+    - 모두의 펫(반려동물 SNS) API 서버 개발
+    - AWS EC2, RDS, S3 인프라 구축
+    - 사용 기술 : Node.js, express, Redis, Bull, Cron, Multer
 - **현대로템**(비개발), 경기 의왕 - 연구원
     - 2019.01 ~ 2022.03 (3년 2개월)
     - 공항설비, 스마트 물류설비 제어시스템 설계
@@ -25,19 +30,36 @@
 ### Backend
 REST API를 만들고 클라이언트와 필요한 데이터를 주고받을 수 있는 서버를 구현할 수 있습니다.
 - Node.js
-- Express (프레임워크)
+- express
+- Prisma
+- Mongoose
 - JavaScript
+- Java
 
 ### Infrastructure
 AWS의 클라우드 서비스를 이용하여 서버를 구축할 수 있습니다.
 - AWS EC2
 - AWS RDS
+- AWS S3
+
+### Database
+RDBMS, NoSQL을 이용해 개념적, 물리적 스키마를 생성할 수 있습니다.
+- MySQL
+- MongoDB
+
+### Etc
+- HTML5
 
 <br>
 
 ## 프로젝트
 ### 토이 프로젝트
-1. 마켓컬리 클론코딩
+1. 러닝하이
+    - 러닝 리워드 적립 서비스
+    - 2022.07 ~ (진행중)
+    - Node.js, express, AWS EC2(Linux Ubuntu 20.04 LTS), AWS RDS(MySQL v8.0.28), Nginx(v1.21.6)
+
+2. 마켓컬리 클론코딩
     - 상품 선택과 주문하기 외 8개 기능 구현
     - 2022.03 ~ 2022.04 (2주)
     - Swift(v5.4), Node.js(v17.7.1), AWS EC2(Linux Ubuntu 20.04 LTS), AWS RDS(MySQL v8.0.28), Nginx(v1.21.6)
