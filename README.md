@@ -17,7 +17,7 @@
     - 모두의 펫(반려동물 SNS) API 서버 개발
     - AWS EC2, RDS, S3 인프라 구축
     - 사용 기술 : Node.js, express, Redis, Bull, Cron, Multer
-    - 외부 API : 알리고 (SMS), 톡플러스 (채팅), 카카오 (Map)
+    - 외부 API : 알리고 (SMS), 톡플러스 (채팅), 카카오 (Map), FCM (푸시 알림)
     - [상세정보 링크](https://github.com/bbaekddo/bbaekddo/blob/66f4d0fab7f36f85a27d0d5fc9327241be4547e5/portfolio/mopet.md)
 - **현대로템**(비개발), 경기 의왕 - 연구원
     - 2019.01 ~ 2022.03 (3년 2개월)
