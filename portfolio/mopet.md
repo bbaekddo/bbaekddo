@@ -1,6 +1,8 @@
 # 모두의 펫
 
 > 반려동물 라이프스타일 SNS
+> 
+> iOS 앱 : https://apps.apple.com/kr/app/모두의-펫-mopet/id1637548796
 
 <div style="text-align: center;">
 <img src="./img/mopet_1.PNG" width="200" height="400" alt="mopet_1"> 
@@ -28,6 +30,12 @@
 - 슬랙 (개발자, PM간 의사소통)
 - 구글 스프레드시트 (고객사 QC, 스케쥴 관리)
 - 제플린 (UI/UX 디자인)
+
+### 4) 시스템 구성도
+
+<div style="text-align: center;">
+<img src="./img/system_config.jpeg" alt="system_configuration">
+</div>
 
 ## 2. 사용 기술
 
