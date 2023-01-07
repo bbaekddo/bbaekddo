@@ -1,6 +1,6 @@
 # Introduction
 
-    지금 할 수 있는 일이면 일단 시작해보는 개발자가 되고 싶습니다
+    지금 할 수 있는 일이면 일단 시작해보는 개발자가 되
 
 - 이름 : 백도현
 
@@ -33,9 +33,8 @@
 REST API를 만들고 클라이언트와 필요한 데이터를 주고받을 수 있는 서버를 구현할 수 있습니다.
 - Node.js
 - express
-- Prisma
-- Mongoose
 - JavaScript
+- TypeScript
 - Java
 
 ### Infrastructure
@@ -48,6 +47,7 @@ AWS의 클라우드 서비스를 이용하여 서버를 구축할 수 있습니�
 RDBMS, NoSQL을 이용해 개념적, 물리적 스키마를 생성할 수 있습니다.
 - MySQL
 - MongoDB
+- Redis
 
 ### Etc
 - HTML5
@@ -58,7 +58,7 @@ RDBMS, NoSQL을 이용해 개념적, 물리적 스키마를 생성할 수 있습
 ### 토이 프로젝트
 1. 러닝하이
     - 러닝 리워드 적립 서비스
-    - 2022.07 ~ (진행중)
+    - 2022.10 ~ (진행중)
     - Node.js, express, AWS EC2(Linux Ubuntu 20.04 LTS), AWS RDS(MySQL v8.0.28), Nginx(v1.21.6)
 
 2. 마켓컬리 클론코딩
