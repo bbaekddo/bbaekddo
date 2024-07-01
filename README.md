@@ -20,7 +20,6 @@
     - 2022.07 ~ 2022.11 (5개월)
     - 모두의 펫(반려동물 SNS) MVP 개발
     - AWS EC2, RDS, S3 인프라 구축
-    - 사용 기술 : Node.js, express, Redis, Bull, Cron, Multer
     - 외부 API : 알리고 (SMS), 톡플러스 (채팅), 카카오 (Map), FCM (푸시 알림)
     - [상세정보 링크](https://github.com/bbaekddo/bbaekddo/blob/7564d485d012e2269c7d8567b6e5c272d2045bf7/portfolio/mopet.md)
 - **현대로템**(비개발), 경기 의왕 - 연구원
